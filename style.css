@@ -20,7 +20,7 @@ body div.form.margin {
         background-color: #e8e8e8;
         margin-bottom: 10px;
 }
-body div.form.margin h1 {
+body div.form.margin h1, body div.form.margin h2, body div.form.margin h3, body div.form.margin h4, body div.form.margin h5, body div.form.margin h6 {
         text-align: center;
         margin: 0px;
 }
